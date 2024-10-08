@@ -21,7 +21,7 @@ This is a basic "Contact Us" form built using HTML, CSS, and JavaScript. The for
 1. **Download and Extract the Zip File**: 
    Download the zip file and extract it to your local machine.
    
-2. **Open `index.html`**:
+2. **Open `contact.html`**:
    Open the `index.html` file in a web browser. The contact form will be displayed.
 
 3. **Fill Out the Form**:
@@ -39,3 +39,6 @@ This is a basic "Contact Us" form built using HTML, CSS, and JavaScript. The for
 ## Customization
 
 You can customize the form fields, success message, or styling by editing the respective sections in the `contact.html`, `contact.css`, and `contact.js` files.
+
+# Git repository link
+**https://github.com/Aman34772/NagaEd-Task.git**
